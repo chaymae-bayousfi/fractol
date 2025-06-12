@@ -17,9 +17,10 @@ L’utilisateur peut zoomer/dézoomer, fermer la fenêtre, et manipuler les para
 ---
 
 ## 🖥️ Capture d’écran
-
-![Aperçu Fractol](https://user-images.githubusercontent.com/your-github-user/screenshots/fractol-demo.png)
-
+- **Mandelbrot** 🟣
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mandel_zoom_00_mandelbrot_set.jpg/330px-Mandel_zoom_00_mandelbrot_set.jpg
+- **Julia** 🟢 Re(c) = -.743,643,887,037,151, Im(c) = .131,825,904,205,330
+- https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Mandel_zoom_14_satellite_julia_island.jpg/1024px-Mandel_zoom_14_satellite_julia_island.jpg
 ---
 
 ## ⚙️ Installation
